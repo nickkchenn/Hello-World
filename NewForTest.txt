@@ -1,1 +1,3 @@
 this is built to test how to sync the update on file change
+
+Syncing is not enough to show changes on the website for others to check,you need to publish at last
